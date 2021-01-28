@@ -1,1 +1,2 @@
 select something from somewhere where thing1 = thing2;
+select something from somewhere where thing3 = thing4;
